@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm LightX5 👋
 
-<!--
-**LightX5/LightX5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about software development and building useful projects
+- 🧠 Always learning and exploring new technologies
+- 🤝 Open to collaboration on interesting ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+- Languages: JavaScript, TypeScript, Python
+- Tools: Git, GitHub, VS Code
+- Interests: Web development, automation, and clean code
+
+## 📈 Current Focus
+- Building and improving personal/open-source projects
+- Strengthening system design and problem-solving skills
+
+## 📫 Connect
+- GitHub: [@LightX5](https://github.com/LightX5)
+
+---
+Thanks for visiting! ⭐
