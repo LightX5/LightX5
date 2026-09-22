@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=650&lines=LIGHT;Software+Engineer+%2B+Creative+Builder" alt="header" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=650&lines=LIGHT;Software+Engineer+%2B+Creative" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=%23+Software+Engineering+%40+OAU+Ile-Ife;Founder+%40+Luminary;AI+%7C+Apps+%7C+Digital+Products" alt="subtitle" />
 
